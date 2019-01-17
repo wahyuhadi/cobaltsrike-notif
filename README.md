@@ -18,12 +18,19 @@
 	       
 	      
 	 
-* Telegram notif example
-![notif](./image/text4.jpg){:height="420px" width="410px" align="center"}.
+* Initial Beacon 
+![notif](./image/text2.png)
 
 * Aggressor log example
 
-![notif](image/text1.png){:height="620px" width="810px" align="center"}.
+![notif](image/text1.png)
 
+* Telegram Notif Example
+
+		Message from archlinux Server
+		Beacon succes implant Info Target
+		Username : user
+		Ipaddres : 192.168.56.101
+		Computer name : USER-PC.
 &copy; [Rahmat Wahyu Hadi](https://github.com/wahyuhadi) - 2019
 
